@@ -1,3 +1,8 @@
+/**
+ * 地图找房模块
+ * 
+ */
+
 import React from "react";
 import { Toast } from "antd-mobile";
 import { List, AutoSizer } from "react-virtualized";
