@@ -1,0 +1,33 @@
+{
+    "status": 200,
+    "description": "请求成功",
+    "body": [
+        {
+            "label": "学院路",
+            "value": 7,
+            "coord": {
+                "latitude": "39.963338",
+                "longitude": "116.319979"
+            },
+            "count": 61
+        },
+        {
+            "label": "知春路",
+            "value": 8,
+            "coord": {
+                "latitude": "39.975294",
+                "longitude": "116.314084"
+            },
+            "count": 68
+        },
+        {
+            "label": "中关村",
+            "value": 9,
+            "coord": {
+                "latitude": "39.958097",
+                "longitude": "116.299081"
+            },
+            "count": 98
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "data": {
+        "body": [
+            {
+                "label": "北京",
+                "pinyin": "beijing",
+                "short": "bj",
+                "value": 3
+            },
+            {
+                "label": "上海",
+                "pinyin": "shanghai",
+                "short": "sh",
+                "value": 4
+            },
+            {
+                "label": "成都",
+                "pinyin": "chengdu",
+                "short": "cd",
+                "value": 2
+            }
+        ]
+    }
+}

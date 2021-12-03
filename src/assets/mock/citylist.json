@@ -1,0 +1,140 @@
+{
+    "data": {
+        "body": [
+            {
+                "label": "安庆",
+                "pinyin": "anqing",
+                "short": "aq",
+                "value": 1
+            },{
+                "label": "成都",
+                "pinyin": "chengdu",
+                "short": "cd",
+                "value": 2
+            },
+            {
+                "label": "北京",
+                "pinyin": "beijing",
+                "short": "bj",
+                "value": 3
+            },
+            {
+                "label": "上海",
+                "pinyin": "shanghai",
+                "short": "sh",
+                "value": 4
+            },
+            {
+                "label": "绵阳",
+                "pinyin": "mianyang",
+                "short": "my",
+                "value": 5
+            },
+            
+            {
+                "label": "广元",
+                "pinyin": "guangyuan",
+                "short": "gy",
+                "value": 6
+            },
+            {
+                "label": "雅安",
+                "pinyin": "yaan",
+                "short": "ya",
+                "value": 7
+            },
+            {
+                "label": "南京",
+                "pinyin": "nanjing",
+                "short": "nj",
+                "value": 8
+            },
+            {
+                "label": "广州",
+                "pinyin": "guangzhou",
+                "short": "gz",
+                "value": 9
+            },
+            {
+                "label": "黄山",
+                "pinyin": "huangshan",
+                "short": "hs",
+                "value": 10
+
+            },
+            {
+                "label": "达州",
+                "pinyin": "dazhou",
+                "short": "dz",
+                "value": 11
+            },
+            {
+                "label": "济南",
+                "pinyin": "jinan",
+                "short": "jn",
+                "value": 12
+            },
+            {
+                "label": "开封",
+                "pinyin": "kaifeng",
+                "short": "kf",
+                "value": 13
+
+            },
+            {
+                "label": "乐山",
+                "pinyin": "leshan",
+                "short": "ls",
+                "value": 14
+            },
+            {
+                "label": "彭山",
+                "pinyin": "pengshan",
+                "short": "ps",
+                "value": 15
+            },
+            {
+                "label": "秦岭",
+                "pinyin": "qinling",
+                "short": "ql",
+                "value": 16
+            },
+            {
+                "label": "日照",
+                "pinyin": "rizhao",
+                "short": "rz",
+                "value": 17
+            },
+            {
+                "label": "郑州",
+                "pinyin": "zhengzhou",
+                "short": "zz",
+                "value": 18
+            },
+            {
+                "label": "武汉",
+                "pinyin": "wuhan",
+                "short": "wh",
+                "value": 19
+            },
+            {
+                "label": "邢台",
+                "pinyin": "xingtai",
+                "short": "xt",
+                "value": 20
+            },
+            {
+                "label": "台湾",
+                "pinyin": "taiwan",
+                "short": "tw",
+                "value": 21
+            },
+            {
+                "label": "深圳",
+                "pinyin": "shenzhen",
+                "short": "sz",
+                "value": 22
+            }
+        ]
+    }
+}

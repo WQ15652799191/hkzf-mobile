@@ -1,0 +1,33 @@
+{
+    "status": 200,
+    "description": "请求成功",
+    "body": [
+        {
+            "label": "科大家属院",
+            "value": 10,
+            "coord": {
+                "latitude": "39.963358",
+                "longitude": "116.319879"
+            },
+            "count": 61
+        },
+        {
+            "label": "知春路小区",
+            "value": 11,
+            "coord": {
+                "latitude": "39.975254",
+                "longitude": "116.314044"
+            },
+            "count": 68
+        },
+        {
+            "label": "志新路小区",
+            "value": 12,
+            "coord": {
+                "latitude": "39.958017",
+                "longitude": "116.297081"
+            },
+            "count": 98
+        }
+    ]
+}

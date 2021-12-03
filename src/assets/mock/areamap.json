@@ -1,0 +1,33 @@
+{
+    "status": 200,
+    "description": "请求成功",
+    "body": [
+        {
+            "label": "朝阳",
+            "value": 4,
+            "coord": {
+                "latitude": "39.912338",
+                "longitude": "116.449979"
+            },
+            "count": 561
+        },
+        {
+            "label": "海淀",
+            "value": 5,
+            "coord": {
+                "latitude": "39.975294",
+                "longitude": "116.314084"
+            },
+            "count": 688
+        },
+        {
+            "label": "丰台",
+            "value": 6,
+            "coord": {
+                "latitude": "39.858097",
+                "longitude": "116.292081"
+            },
+            "count": 198
+        }
+    ]
+}

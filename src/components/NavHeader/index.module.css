@@ -1,0 +1,8 @@
+.navbar {
+    margin-top: -45px;
+    color: #333;
+    background-color: #f5f6f5;
+}
+.navbar :global(.am-navbar-title) {
+    color: #333;
+}
