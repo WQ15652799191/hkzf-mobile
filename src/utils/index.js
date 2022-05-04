@@ -13,7 +13,6 @@ export const getCurrentCity = () => {
                         label: res.name,
                         value: 'wqwqwqwq'
                     }
-                    console.log(local);
                     localStorage.setItem('hkzf_city', JSON.stringify(local))
                     resolve(local)
                 } catch (e) {

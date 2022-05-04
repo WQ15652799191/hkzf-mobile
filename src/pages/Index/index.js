@@ -199,7 +199,7 @@ export default class Index extends React.Component {
                         <Carousel
                             autoplay={true}
                             infinite
-                            autoplayInterval={5000}
+                            autoplayInterval={2000}
                         >
                             {this.renderSwipers()}
                         </Carousel>
